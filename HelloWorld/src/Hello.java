@@ -7,5 +7,6 @@ public class Hello {
         int mySecondNumber = 1000 - myFirstNumber;
         System.out.println(myFirstNumber);
         System.out.println(mySecondNumber);
+
     }
 }
