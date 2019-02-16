@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="05576a92-169c-459f-bf4b-1f51952425af" name="Default Changelist" comment="" />
+    <list default="true" id="7475dfe3-ff83-4d12-b5ab-6e60b5c24485" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../CharAndBoolean/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CharAndBoolean/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/mendonca/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="14" column="49" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
+            <state relative-caret-position="437">
+              <caret line="19" column="67" selection-start-line="19" selection-start-column="67" selection-end-line="19" selection-end-column="67" />
             </state>
           </provider>
         </entry>
@@ -32,28 +34,25 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="1905" />
     <option name="width" value="1950" />
     <option name="height" value="2175" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="1" id="Add" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -70,7 +69,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.mendonca.Main" />
-      <module name="CharAndBoolean" />
+      <module name="Strings" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -89,22 +88,20 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="05576a92-169c-459f-bf4b-1f51952425af" name="Default Changelist" comment="" />
-      <created>1549963876419</created>
+      <changelist id="7475dfe3-ff83-4d12-b5ab-6e60b5c24485" name="Default Changelist" comment="" />
+      <created>1550358494405</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1549963876419</updated>
-      <workItem from="1549963878190" duration="211000" />
-      <workItem from="1549988678677" duration="263000" />
-      <workItem from="1550358425686" duration="41000" />
+      <updated>1550358494405</updated>
+      <workItem from="1550358496517" duration="306000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="515000" />
+    <option name="totallyTimeSpent" value="306000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="-6" width="1549" height="877" extended-state="6" />
+    <frame x="0" y="0" width="1536" height="864" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
@@ -112,7 +109,7 @@
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.17102616" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.1671141" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Messages" order="0" />
       <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
@@ -135,7 +132,7 @@
       <window_info anchor="right" id="Commander" order="6" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
-      <window_info anchor="right" id="Run" order="9" weight="0.3286385" />
+      <window_info active="true" anchor="right" id="Run" order="9" visible="true" weight="0.3281879" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,8 +141,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/mendonca/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="14" column="49" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
+        <state relative-caret-position="437">
+          <caret line="19" column="67" selection-start-line="19" selection-start-column="67" selection-end-line="19" selection-end-column="67" />
         </state>
       </provider>
     </entry>
