@@ -2,8 +2,8 @@ public class PositiveNegativeZero {
 
     public static void main(String[] args) {
         checkNumber(0);
-        int arr[];
-        print(arr.length);
+        int arr[] = new int[4];
+        System.out.println(arr.length);
     }
 
     public static void checkNumber(int number) {

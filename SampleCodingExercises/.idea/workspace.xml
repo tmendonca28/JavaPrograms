@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cddd99e2-478e-49ab-a0eb-7c873d38c7d5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Methods/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Methods/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Methods/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Methods/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NthFibonacciNumber/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NthFibonacciNumber/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PositiveNegativeZero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PositiveNegativeZero.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,10 +19,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/PositiveNegativeZero.java">
+        <entry file="file://$PROJECT_DIR$/src/DeletingNodeLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+            <state relative-caret-position="614">
+              <caret line="87" column="10" lean-forward="true" selection-start-line="87" selection-start-column="10" selection-end-line="87" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -42,14 +43,15 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/PositiveNegativeZero.java" />
+        <option value="$PROJECT_DIR$/src/DeletingNodeLinkedList.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-2019" />
-    <option name="y" value="469" />
-    <option name="width" value="1292" />
-    <option name="height" value="1446" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-15" />
+    <option name="y" value="-15" />
+    <option name="width" value="3875" />
+    <option name="height" value="2195" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -57,6 +59,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -73,14 +77,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551031831072" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1580413022406" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -164,14 +167,16 @@
       <workItem from="1551031635304" duration="312000" />
       <workItem from="1571854799931" duration="1354000" />
       <workItem from="1576011612561" duration="69000" />
+      <workItem from="1580321310117" duration="135000" />
+      <workItem from="1580411627979" duration="1334000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1735000" />
+    <option name="totallyTimeSpent" value="3204000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-2019" y="469" width="1292" height="1446" extended-state="0" />
+    <frame x="-6" y="-6" width="1549" height="877" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
@@ -179,7 +184,7 @@
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.21202275" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.06841046" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info active="true" anchor="bottom" id="Messages" order="0" visible="true" weight="0.32944834" />
       <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
@@ -212,8 +217,15 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/PositiveNegativeZero.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        <state relative-caret-position="322">
+          <caret line="14" column="22" lean-forward="true" selection-start-line="1" selection-end-line="14" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DeletingNodeLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="614">
+          <caret line="87" column="10" lean-forward="true" selection-start-line="87" selection-start-column="10" selection-end-line="87" selection-end-column="10" />
         </state>
       </provider>
     </entry>
