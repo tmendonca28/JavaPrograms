@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ace7ce51-9ac1-4daa-a830-c2a4b79c3016" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/BasicHashMaps/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BasicHashMaps/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trees/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Trees/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,17 +30,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="JavaPrograms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaPrograms" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
@@ -120,11 +110,12 @@
       <workItem from="1580319629877" duration="161000" />
       <workItem from="1583442929312" duration="150000" />
       <workItem from="1583763934238" duration="9000" />
+      <workItem from="1583822784270" duration="92000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="320000" />
+    <option name="totallyTimeSpent" value="412000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1549" height="877" extended-state="6" />
@@ -134,7 +125,7 @@
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.17102616" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.17303823" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Messages" order="0" />
       <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
