@@ -27,5 +27,11 @@ public class Main {
         map.remove("Anthony");
 
         System.out.println(map);
+
+        HashMap<String, Integer> lightBulbToHoursOfLight = new HashMap<>();
+
+        lightBulbToHoursOfLight.put("incandescent", 1200);
+        lightBulbToHoursOfLight.put("compact fluorescent", 10000);
+        lightBulbToHoursOfLight.put("LED", 50000);
     }
 }

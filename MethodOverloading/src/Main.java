@@ -11,6 +11,7 @@ public class Main {
         calcFeetAndInchesToCentimeters(6, -10);
         calcFeetAndInchesToCentimeters(0, 6);
         calcFeetAndInchesToCentimeters(100);
+        calcFeetAndInchesToCentimeters(-100);
 
     }
 
@@ -41,6 +42,7 @@ public class Main {
 
     public static double calcFeetAndInchesToCentimeters(double inches) {
         if (!(inches >= 0)) {
+            System.out.println("Invalid input");
             return -1;
         }
         double feet = (int) inches / 12;
