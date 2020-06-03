@@ -16,6 +16,7 @@ public class PermutationPalindrome {
         System.out.println(isPalindromePermutation("ivicc"));
         System.out.println(isPalindromePermutation("civil"));
         System.out.println(isPalindromePermutation("lvici"));
+        System.out.println(isPalindromePermutation("baab"));
     }
 
     public static boolean isPalindromePermutation(String input) {
