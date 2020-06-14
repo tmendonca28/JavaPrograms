@@ -1,14 +1,17 @@
 package com.mendonca;
 
 public class Duration {
+
+    private static final String INVALID_VALUE_MESSAGE = "Invalid Value";
+
     public static String getDurationString(int minutes, int seconds) {
         // Check mins is <=0, return "invalid value"
         if (minutes <= 0) {
-            return "Invalid value";
+            return INVALID_VALUE_MESSAGE;
         }
         // Check seconds is >=0 and <=59, return "invalid value"
         if ((seconds <= 0) || (seconds >= 59)) {
-            return "Invalid value";
+            return INVALID_VALUE_MESSAGE;
         }
         // calculate HMS in format XXh YYm ZZs
         int hoursDuration = minutes/60;
@@ -22,7 +25,7 @@ public class Duration {
     public static String getDurationString(int seconds) {
         // Check seconds is <=0, return "invalid value"
         if (seconds <= 0) {
-            return "Invalid value";
+            return INVALID_VALUE_MESSAGE;
         }
         // Calculate minutes then pass it to the method above
         int mins = seconds/60;
