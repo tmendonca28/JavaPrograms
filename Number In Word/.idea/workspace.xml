@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8d8431ce-00bf-4fa8-bf8a-c94b861f729b" name="Default Changelist" comment="" />
+    <list default="true" id="9c274231-2c3a-4dc4-9dcb-e42dd64c62e9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Day of the Week Challenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day of the Week Challenge/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,17 +16,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/mendonca/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="161">
+              <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/mendonca/DayOfTheWeek.java">
+        <entry file="file://$PROJECT_DIR$/src/com/mendonca/NumberInWord.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="690">
-              <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+            <state relative-caret-position="874">
+              <caret line="38" column="9" lean-forward="true" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -44,7 +46,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/mendonca/DayOfTheWeek.java" />
+        <option value="$PROJECT_DIR$/src/com/mendonca/NumberInWord.java" />
         <option value="$PROJECT_DIR$/src/com/mendonca/Main.java" />
       </list>
     </option>
@@ -56,7 +58,7 @@
     <option name="height" value="878" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="1" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -67,17 +69,17 @@
         <subPane>
           <expand>
             <path>
-              <item name="Day of the Week Challenge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Day of the Week Challenge" type="462c0819:PsiDirectoryNode" />
+              <item name="Number In Word" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Number In Word" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Day of the Week Challenge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Day of the Week Challenge" type="462c0819:PsiDirectoryNode" />
+              <item name="Number In Word" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Number In Word" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Day of the Week Challenge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Day of the Week Challenge" type="462c0819:PsiDirectoryNode" />
+              <item name="Number In Word" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Number In Word" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="mendonca" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -85,14 +87,14 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1592345655942" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1592346074817" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -109,7 +111,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.mendonca.Main" />
-      <module name="Day of the Week Challenge" />
+      <module name="Number In Word" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -128,20 +130,21 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8d8431ce-00bf-4fa8-bf8a-c94b861f729b" name="Default Changelist" comment="" />
-      <created>1592345396073</created>
+      <changelist id="9c274231-2c3a-4dc4-9dcb-e42dd64c62e9" name="Default Changelist" comment="" />
+      <created>1592345791591</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1592345396073</updated>
-      <workItem from="1592345397657" duration="336000" />
+      <updated>1592345791591</updated>
+      <workItem from="1592345793009" duration="271000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="336000" />
+    <option name="totallyTimeSpent" value="271000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3832" y="183" width="2576" height="1456" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Designer" order="1" />
@@ -153,8 +156,8 @@
       <window_info anchor="bottom" id="Messages" order="0" />
       <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="2" />
-      <window_info anchor="bottom" id="Version Control" order="3" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="4" visible="true" weight="0.3299923" />
+      <window_info anchor="bottom" id="Version Control" order="3" weight="0.3299923" />
+      <window_info anchor="bottom" id="Terminal" order="4" weight="0.3299923" />
       <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" />
@@ -179,17 +182,17 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/mendonca/DayOfTheWeek.java">
+    <entry file="file://$PROJECT_DIR$/src/com/mendonca/NumberInWord.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+        <state relative-caret-position="874">
+          <caret line="38" column="9" lean-forward="true" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/mendonca/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="161">
+          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
         </state>
       </provider>
     </entry>
