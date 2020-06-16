@@ -23,6 +23,16 @@ public class Main {
                 break;
         }
 
-        // More code here
+        // Creating a switch statement with char var
+        char switchChar = 'E';
+
+        switch (switchChar) {
+            case 'A': case 'B': case 'C': case 'D': case 'E':
+                System.out.println("Found " + switchChar);
+                break;
+            default:
+                System.out.println("Not found");
+                break;
+        }
     }
 }
