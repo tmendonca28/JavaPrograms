@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c8fe9bbb-2c61-4af9-962d-f5cb7dded283" name="Default Changelist" comment="" />
+    <list default="true" id="22aea50c-8033-4df1-b29e-80c68af8c7d4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../While Statement/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../While Statement/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,20 +13,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/mendonca/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
-              <caret line="19" column="56" lean-forward="true" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="56" />
+            <state relative-caret-position="115">
+              <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/mendonca/EvenNumber.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/mendonca/Digits.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+            <state relative-caret-position="230">
+              <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -44,8 +46,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/mendonca/EvenNumber.java" />
         <option value="$PROJECT_DIR$/src/com/mendonca/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/mendonca/Digits.java" />
       </list>
     </option>
   </component>
@@ -64,21 +66,22 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="While Statement" type="b2602c69:ProjectViewProjectNode" />
-              <item name="While Statement" type="462c0819:PsiDirectoryNode" />
+              <item name="Digit Sum Challenge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Digit Sum Challenge" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="While Statement" type="b2602c69:ProjectViewProjectNode" />
-              <item name="While Statement" type="462c0819:PsiDirectoryNode" />
+              <item name="Digit Sum Challenge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Digit Sum Challenge" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="While Statement" type="b2602c69:ProjectViewProjectNode" />
-              <item name="While Statement" type="462c0819:PsiDirectoryNode" />
+              <item name="Digit Sum Challenge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Digit Sum Challenge" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="mendonca" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -86,13 +89,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1592432072545" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1592432658768" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -109,7 +111,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.mendonca.Main" />
-      <module name="While Statement" />
+      <module name="Digit Sum Challenge" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -128,20 +130,21 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c8fe9bbb-2c61-4af9-962d-f5cb7dded283" name="Default Changelist" comment="" />
-      <created>1592431536283</created>
+      <changelist id="22aea50c-8033-4df1-b29e-80c68af8c7d4" name="Default Changelist" comment="" />
+      <created>1592432302156</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1592431536283</updated>
-      <workItem from="1592431543568" duration="605000" />
+      <updated>1592432302156</updated>
+      <workItem from="1592432303870" duration="331000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="605000" />
+    <option name="totallyTimeSpent" value="331000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1549" height="877" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Designer" order="1" />
@@ -154,7 +157,7 @@
       <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="2" />
       <window_info anchor="bottom" id="Version Control" order="3" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="4" visible="true" weight="0.32871014" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
       <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" />
@@ -172,24 +175,24 @@
       <window_info anchor="right" id="Commander" order="6" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
-      <window_info anchor="right" id="Run" order="9" weight="0.3286385" />
+      <window_info active="true" anchor="right" id="Run" order="9" visible="true" weight="0.3286385" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/mendonca/EvenNumber.java">
+    <entry file="file://$PROJECT_DIR$/src/com/mendonca/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        <state relative-caret-position="115">
+          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mendonca/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/mendonca/Digits.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="19" column="56" lean-forward="true" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="56" />
+        <state relative-caret-position="230">
+          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
         </state>
       </provider>
     </entry>
