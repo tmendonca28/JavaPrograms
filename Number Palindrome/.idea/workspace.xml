@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="22aea50c-8033-4df1-b29e-80c68af8c7d4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="65275401-d0cf-4224-995c-563d3d41bfcc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Digit Sum Challenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Digit Sum Challenge/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,20 +13,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/mendonca/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+            <state relative-caret-position="161">
+              <caret line="7" column="65" selection-start-line="7" selection-start-column="65" selection-end-line="7" selection-end-column="65" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/mendonca/Digits.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/mendonca/NumberPalindrome.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+            <state relative-caret-position="368">
+              <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -46,8 +46,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/mendonca/Digits.java" />
         <option value="$PROJECT_DIR$/src/com/mendonca/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/mendonca/NumberPalindrome.java" />
       </list>
     </option>
   </component>
@@ -65,23 +65,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Digit Sum Challenge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Digit Sum Challenge" type="462c0819:PsiDirectoryNode" />
+              <item name="Number Palindrome" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Number Palindrome" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Digit Sum Challenge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Digit Sum Challenge" type="462c0819:PsiDirectoryNode" />
+              <item name="Number Palindrome" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Number Palindrome" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Digit Sum Challenge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Digit Sum Challenge" type="462c0819:PsiDirectoryNode" />
+              <item name="Number Palindrome" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Number Palindrome" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="mendonca" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -94,7 +94,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1592432968697" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1592497652259" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -111,7 +111,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.mendonca.Main" />
-      <module name="Digit Sum Challenge" />
+      <module name="Number Palindrome" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -130,21 +130,20 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="22aea50c-8033-4df1-b29e-80c68af8c7d4" name="Default Changelist" comment="" />
-      <created>1592432302156</created>
+      <changelist id="65275401-d0cf-4224-995c-563d3d41bfcc" name="Default Changelist" comment="" />
+      <created>1592497165813</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1592432302156</updated>
-      <workItem from="1592432303870" duration="803000" />
+      <updated>1592497165813</updated>
+      <workItem from="1592497171386" duration="481000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="803000" />
+    <option name="totallyTimeSpent" value="506000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1549" height="877" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Designer" order="1" />
@@ -157,7 +156,7 @@
       <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="2" />
       <window_info anchor="bottom" id="Version Control" order="3" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="4" visible="true" weight="0.32871014" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
       <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" />
@@ -175,24 +174,24 @@
       <window_info anchor="right" id="Commander" order="6" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
-      <window_info anchor="right" id="Run" order="9" weight="0.3286385" />
+      <window_info active="true" anchor="right" id="Run" order="9" visible="true" weight="0.3286385" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/mendonca/Digits.java">
+    <entry file="file://$PROJECT_DIR$/src/com/mendonca/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+        <state relative-caret-position="161">
+          <caret line="7" column="65" selection-start-line="7" selection-start-column="65" selection-end-line="7" selection-end-column="65" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mendonca/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/mendonca/NumberPalindrome.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        <state relative-caret-position="391">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="17" selection-end-column="5" />
         </state>
       </provider>
     </entry>
