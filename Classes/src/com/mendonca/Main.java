@@ -25,5 +25,15 @@ public class Main {
 
         anthonysAccount.deposit(51.0);
         anthonysAccount.withdrawal(100.0);
+
+        System.out.println("VIP Customer Constructor");
+        VipCustomer customer1 = new VipCustomer();
+        System.out.println("Customer1 is : " + customer1.getCustomerName());
+
+        VipCustomer customer2 = new VipCustomer("JayJay", 50000.0);
+        System.out.println("Customer2 is : " + customer2.getCustomerName());
+
+        VipCustomer customer3 = new VipCustomer("Juliet", 800000.0, "J@m.com");
+        System.out.println("Customer3 is : " + customer3.getCustomerName());
     }
 }
