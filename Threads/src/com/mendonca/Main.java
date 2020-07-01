@@ -1,7 +1,6 @@
 package com.mendonca;
 
-import static com.mendonca.ThreadColor.ANSI_GREEN;
-import static com.mendonca.ThreadColor.ANSI_PURPLE;
+import static com.mendonca.ThreadColor.*;
 
 public class Main {
 
@@ -17,6 +16,15 @@ public class Main {
                 System.out.println(ANSI_GREEN + "Hello from the anonymous class thread.");
             }
         }.start();
+
+        // Runnable interface is more flexible and more popular
+        Thread myRunnableThread = new Thread(new MyRunnable(){
+            @Override
+            public void run() {
+                System.out.println(ANSI_RED + "Hello from anon class implementation of run");
+            }
+        });
+        myRunnableThread.start();
 
         System.out.println(ANSI_PURPLE + "Hello again from the main thread.");
     }
