@@ -10,6 +10,7 @@ public class Main {
         Thread anotherThread = new AnotherThread();
         anotherThread.start();
 
+
         // Anonymous class
         new Thread() {
             public void run() {
@@ -22,6 +23,12 @@ public class Main {
             @Override
             public void run() {
                 System.out.println(ANSI_RED + "Hello from anon class implementation of run");
+                try {
+                    anotherThread.join(2000);
+                    System.out.println(ANSI_RED + "AnotherThread terminated/time out so I'm running again.");
+                } catch (InterruptedException e) {
+                    System.out.println(ANSI_RED + "I couldn't wait after all. I was interrupted.");
+                }
             }
         });
         myRunnableThread.start();
