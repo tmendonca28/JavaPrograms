@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="679b85c3-e1ed-4f37-aea1-8e949640e781" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Threads/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Threads/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mendonca/test/CupTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mendonca/test/CupTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,8 +34,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/mendonca/test/CupTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+            <state relative-caret-position="741">
+              <caret line="59" column="13" lean-forward="true" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -119,10 +119,11 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1593854463290" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1593855766868" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -144,7 +145,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.CupTest">
+  <component name="RunManager" selected="JUnit.CupTest.guessThePercent">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.mendonca.Main" />
       <module name="Getting Started with JUnit5" />
@@ -170,9 +171,43 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CupTest.guessThePercent" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Getting Started with JUnit5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mendonca.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mendonca.test" />
+      <option name="MAIN_CLASS_NAME" value="com.mendonca.test.CupTest" />
+      <option name="METHOD_NAME" value="guessThePercent" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CupTest.testObjectCreationWithAssertAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Getting Started with JUnit5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mendonca.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mendonca.test" />
+      <option name="MAIN_CLASS_NAME" value="com.mendonca.test.CupTest" />
+      <option name="METHOD_NAME" value="testObjectCreationWithAssertAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CupTest.guessThePercent" />
         <item itemvalue="JUnit.CupTest" />
+        <item itemvalue="JUnit.CupTest.testObjectCreationWithAssertAll" />
       </list>
     </recent_temporary>
   </component>
@@ -187,12 +222,44 @@
       <option name="presentableId" value="Default" />
       <updated>1593818192576</updated>
       <workItem from="1593818194520" duration="409000" />
-      <workItem from="1593853700372" duration="783000" />
+      <workItem from="1593853700372" duration="1875000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="CupTest - 2020.07.04 at 10h 21m 30s.xml">
+      <configuration name="CupTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CupTest - 2020.07.04 at 10h 23m 27s.xml">
+      <configuration name="CupTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CupTest - 2020.07.04 at 10h 24m 29s.xml">
+      <configuration name="CupTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CupTest - 2020.07.04 at 10h 24m 51s.xml">
+      <configuration name="CupTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CupTest - 2020.07.04 at 10h 26m 39s.xml">
+      <configuration name="CupTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CupTest - 2020.07.04 at 10h 27m 43s.xml">
+      <configuration name="CupTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CupTest - 2020.07.04 at 10h 29m 16s.xml">
+      <configuration name="CupTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CupTest - 2020.07.04 at 10h 31m 45s.xml">
+      <configuration name="CupTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CupTest_testObjectCreationWithAssertAll - 2020.07.04 at 10h 36m 51s.xml">
+      <configuration name="CupTest.testObjectCreationWithAssertAll" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CupTest - 2020.07.04 at 10h 37m 37s.xml">
+      <configuration name="CupTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1192000" />
+    <option name="totallyTimeSpent" value="2284000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3832" y="183" width="2576" height="1456" extended-state="6" />
@@ -209,7 +276,7 @@
       <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="2" />
       <window_info anchor="bottom" id="Version Control" order="3" />
-      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="4" weight="0.3299923" />
       <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" />
@@ -250,8 +317,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/mendonca/test/CupTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        <state relative-caret-position="741">
+          <caret line="59" column="13" lean-forward="true" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
         </state>
       </provider>
     </entry>
