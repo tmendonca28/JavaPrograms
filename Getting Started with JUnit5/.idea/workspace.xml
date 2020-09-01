@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="679b85c3-e1ed-4f37-aea1-8e949640e781" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/com/mendonca/test/CupTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mendonca/test/CupTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,8 +34,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/mendonca/test/CupTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="741">
-              <caret line="59" column="13" lean-forward="true" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
+            <state relative-caret-position="670">
+              <caret line="72" column="1" lean-forward="true" selection-start-line="72" selection-start-column="1" selection-end-line="72" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -100,10 +100,6 @@
               <item name="mendonca" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Getting Started with JUnit5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -119,7 +115,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1593855766868" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1593855907480" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -222,17 +218,11 @@
       <option name="presentableId" value="Default" />
       <updated>1593818192576</updated>
       <workItem from="1593818194520" duration="409000" />
-      <workItem from="1593853700372" duration="1875000" />
+      <workItem from="1593853700372" duration="2253000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CupTest - 2020.07.04 at 10h 21m 30s.xml">
-      <configuration name="CupTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CupTest - 2020.07.04 at 10h 23m 27s.xml">
-      <configuration name="CupTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="CupTest - 2020.07.04 at 10h 24m 29s.xml">
       <configuration name="CupTest" configurationId="JUnit" />
     </history-entry>
@@ -257,9 +247,15 @@
     <history-entry file="CupTest - 2020.07.04 at 10h 37m 37s.xml">
       <configuration name="CupTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="CupTest_guessThePercent - 2020.07.04 at 10h 42m 18s.xml">
+      <configuration name="CupTest.guessThePercent" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CupTest_guessThePercent - 2020.07.04 at 10h 42m 53s.xml">
+      <configuration name="CupTest.guessThePercent" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2284000" />
+    <option name="totallyTimeSpent" value="2662000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3832" y="183" width="2576" height="1456" extended-state="6" />
@@ -270,13 +266,13 @@
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.16819085" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.16819085" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Messages" order="0" />
       <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="2" />
       <window_info anchor="bottom" id="Version Control" order="3" />
-      <window_info anchor="bottom" id="Terminal" order="4" weight="0.3299923" />
+      <window_info anchor="bottom" id="Terminal" order="4" visible="true" weight="0.3299923" />
       <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" />
@@ -284,7 +280,7 @@
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="11" />
-      <window_info active="true" anchor="bottom" id="Run" order="12" visible="true" weight="0.32845026" />
+      <window_info anchor="bottom" id="Run" order="12" weight="0.32845026" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Theme Preview" order="1" />
       <window_info anchor="right" id="Maven" order="2" />
@@ -317,8 +313,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/mendonca/test/CupTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="741">
-          <caret line="59" column="13" lean-forward="true" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
+        <state relative-caret-position="670">
+          <caret line="72" column="1" lean-forward="true" selection-start-line="72" selection-start-column="1" selection-end-line="72" selection-end-column="1" />
         </state>
       </provider>
     </entry>
