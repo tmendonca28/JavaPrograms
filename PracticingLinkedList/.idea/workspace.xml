@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="86896656-38ea-4225-a058-5255c5583ba0" name="Default Changelist" comment="" />
+    <list default="true" id="86896656-38ea-4225-a058-5255c5583ba0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mendonca/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mendonca/Demo.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,10 +15,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/mendonca/BuildingString.java">
+        <entry file="file://$PROJECT_DIR$/src/com/mendonca/Demo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+            <state relative-caret-position="688">
+              <caret line="76" column="26" selection-start-line="76" selection-start-column="26" selection-end-line="76" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -37,9 +40,9 @@
       <list>
         <option value="$PROJECT_DIR$/src/com/mendonca/Customer.java" />
         <option value="$PROJECT_DIR$/src/com/mendonca/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/mendonca/Demo.java" />
         <option value="$PROJECT_DIR$/src/com/mendonca/CreateLinkedList.java" />
         <option value="$PROJECT_DIR$/src/com/mendonca/BuildingString.java" />
+        <option value="$PROJECT_DIR$/src/com/mendonca/Demo.java" />
       </list>
     </option>
   </component>
@@ -57,7 +60,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -81,12 +83,13 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1599403219697" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1600335742801" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -100,7 +103,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BuildingString">
+  <component name="RunManager" selected="Application.Demo">
     <configuration name="BuildingString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.mendonca.BuildingString" />
       <module name="PracticingLinkedList" />
@@ -158,9 +161,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo" />
         <item itemvalue="Application.BuildingString" />
         <item itemvalue="Application.CreateLinkedList" />
-        <item itemvalue="Application.Demo" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -178,12 +181,15 @@
       <workItem from="1598934373358" duration="5256000" />
       <workItem from="1599116239837" duration="5000" />
       <workItem from="1599400775301" duration="231000" />
-      <workItem from="1599402712103" duration="506000" />
+      <workItem from="1599402712103" duration="745000" />
+      <workItem from="1599481770152" duration="2000" />
+      <workItem from="1599813400072" duration="17000" />
+      <workItem from="1600334778096" duration="822000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5998000" />
+    <option name="totallyTimeSpent" value="7078000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3832" y="183" width="2576" height="1456" extended-state="6" />
@@ -194,13 +200,13 @@
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.17176938" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.10656063" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Messages" order="0" weight="0.32977587" />
       <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="2" />
       <window_info anchor="bottom" id="Version Control" order="3" />
-      <window_info anchor="bottom" id="Terminal" order="4" visible="true" weight="0.32845026" />
+      <window_info anchor="bottom" id="Terminal" order="4" visible="true" weight="0.18195836" />
       <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" />
@@ -232,17 +238,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mendonca/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/mendonca/BuildingString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mendonca/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1495">
-          <caret line="65" selection-start-line="65" selection-end-line="65" />
+        <state relative-caret-position="184">
+          <caret line="8" column="48" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
         </state>
       </provider>
     </entry>
@@ -253,10 +252,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mendonca/BuildingString.java">
+    <entry file="file://$PROJECT_DIR$/src/com/mendonca/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+        <state relative-caret-position="506">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mendonca/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="688">
+          <caret line="76" column="26" selection-start-line="76" selection-start-column="26" selection-end-line="76" selection-end-column="26" />
         </state>
       </provider>
     </entry>
